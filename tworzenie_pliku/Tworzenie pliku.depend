@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1326577464 source:c:\users\piotrek\desktop\c++\tworzenie pliku\main.cpp
+	<iostream>
+	<fstream>
+	<cstdio>
+
