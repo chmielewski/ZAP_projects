@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1321191628 source:c:\users\piotrek\desktop\c++\baza samochodow\main.cpp
+	<iostream>
+	<math.h>
+	<cstdlib>
+
