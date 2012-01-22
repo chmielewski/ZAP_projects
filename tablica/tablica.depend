@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1320086935 source:c:\users\piotrek\desktop\c++\tablica\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+
