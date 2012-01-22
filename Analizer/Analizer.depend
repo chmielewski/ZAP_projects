@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1326548019 source:c:\users\piotrek\desktop\c++\analizer\main.cpp
+	<iostream>
+	<fstream>
+
