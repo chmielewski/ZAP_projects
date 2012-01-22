@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1326543552 source:c:\users\piotrek\desktop\c++\plik .txt\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+
